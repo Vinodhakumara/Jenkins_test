@@ -4,4 +4,4 @@ cal
 echo "Hello ARTHians"
 ifconfig
 date
-thats great
+echo "thats great"
